@@ -13,12 +13,12 @@ For any questions about the API, the #general section of the Prysm discord chann
 
 ## **Running the Program**
 
-0) Create the database before adding anything to it (if this is your first time).
+1) Create the database before adding anything to it (if this is your first time).
                                  ```python3 createdb.py```
 
-1) Start the program with the following command:
+2) Start the program with the following command:
                                  ```python3 listfromdb.py```
 
-2) In addition, if you want to manually set the amount of per call, you can do so with optional command line arguments:
+3) In addition, if you want to manually set the amount of per call, you can do so with optional command line arguments:
                                  ```python3 listfromdb.py __amountOfTransactions__ ```
 
