@@ -7,7 +7,7 @@
 
 ## **Introduction**
 
-This program continually updates a database with information about the balances of validators each epoch (created in "createdb.py"). <br> <br>
+This program continually updates a database with information about the balances of validators each epoch (created in "createdb.py") and correlates it with ETH 2.0 pricing information during that epoch. <br> <br>
 Information about the API I am calling can be found here: https://api.prylabs.net/#/. <br> <br>
 For any questions about the API, the #general section of the Prysm discord channel is a great place to ask for help: https://discord.com/channels/476244492043812875/476588476393848832.
 
